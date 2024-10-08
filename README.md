@@ -1,2 +1,3 @@
 # homework
-this repository is used to complete homework
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
